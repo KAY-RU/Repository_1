@@ -1,3 +1,4 @@
 Good bye!
 Some other line
 String from user2
+user2
